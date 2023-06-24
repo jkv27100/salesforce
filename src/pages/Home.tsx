@@ -1,7 +1,12 @@
-import React from "react";
+import { LandingContainer, NavBar } from "../components/index";
 
 function Home() {
-  return <div>Home</div>;
+  return (
+    <>
+      <NavBar />
+      <LandingContainer />
+    </>
+  );
 }
 
 export default Home;

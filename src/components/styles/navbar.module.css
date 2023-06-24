@@ -1,0 +1,29 @@
+.navbarContainer {
+  width: 100%;
+  height: 110px;
+  box-shadow: 0 8px 6px -6px #eee;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logoContainer {
+  width: 238px;
+}
+
+.logoContainer img {
+  width: 100%;
+  height: 100%;
+}
+
+.routesContainer {
+  width: 60%;
+  display: flex;
+  gap: 30px;
+}
+
+.navButtons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 50px;
+}

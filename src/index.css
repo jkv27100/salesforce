@@ -9,6 +9,9 @@
 }
 
 html,
-body {
+body,
+#root {
   font-family: "Allerta";
+  width: 100%;
+  margin: 0;
 }

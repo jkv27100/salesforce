@@ -1,0 +1,9 @@
+.navLink {
+  padding: 20px;
+  font-size: 22px;
+  font-weight: 400;
+  border: none;
+  outline: none;
+  background-color: white;
+  cursor: pointer;
+}
